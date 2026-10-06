@@ -2,7 +2,7 @@
 
 hello, 
 
-this is the project I worked on as part of the "Information Theory (ECE_TEL851)" course from the university of Peloponnese and its a Network Intrusion Detection System (NIDS).
+this is the project I worked on as part of the "Information Theory (ECE_TEL851)" (University of Peloponnese) course and its a Network Intrusion Detection System (NIDS).
 
 ---
 
